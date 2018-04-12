@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Generate our own space for temporary files
 TMPDIR=$(mktemp -d) || exit 1
